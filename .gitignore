@@ -1,0 +1,11 @@
+# Obsidian workspace (changes every session, causes conflicts)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Obsidian cache
+.obsidian/cache
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
